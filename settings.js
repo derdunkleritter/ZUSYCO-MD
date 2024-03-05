@@ -20,7 +20,7 @@ module.exports = {
   SUDO_NUMBERS : "254716808520",
   OWNER_NAME: "『 ©√𝗠𝗮𝗻𝘂𝗲𝗹 𝗠𝗼𝘀𝗲𝘀∆™ 』",
   BOT_NAME : "©√𝐌𝐀𝐍𝐔𝐄𝐋'𝐒 𝐁𝐎𝐓∆™",
-  ZUSYCO_FILE : "ZUSYCO-QR",
+  ZUSYCO_FILE : "ZUSYCO-QR.nima",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
     WELCOME: 'https://i.ibb.co/PzhpBV7/WELCOME-IMAGE-LOWQ.jpg',
