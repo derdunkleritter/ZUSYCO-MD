@@ -18,8 +18,8 @@ Creator : @darkmakerofc , @mr-nima-x
 module.exports = {
   OWNER_NUMBER: "254114518205",
   SUDO_NUMBERS : "254114518205",
-  OWNER_NAME: "『 ©√𝗠𝗮𝗻𝘂𝗲𝗹 𝗠𝗼𝘀𝗲𝘀∆™ 』",
-  BOT_NAME : "©√𝐌𝐀𝐍𝐔𝐄𝐋'𝐒 𝐁𝐎𝐓∆™",
+  OWNER_NAME: "『 __❝©√𝐃𝐮𝐧𝐤𝐥𝐞 𝐑𝐢𝐭𝐭𝐞𝐫∆™❞__ 』",
+  BOT_NAME : "__❝©√𝐃𝐮𝐧𝐤𝐥𝐞 𝐁𝐨𝐭∆™❞__",
   ZUSYCO_FILE : "ZUSYCO-QR.nima",
   LOGOS: {
     ALIVE: 'https://i.ibb.co/YTWznr9/ZUSYCO-ALIVE-IMAGE-LOWQ.jpg',
@@ -35,8 +35,8 @@ module.exports = {
   WORK_TYPE : "private",
   WORK_MODE : "onlygroups",
   WORK_MODE_MESSAGE_SEND : false,
-  CAPTION : '©√𝐌𝐀𝐍𝐔𝐄𝐋'𝐒 𝐁𝐎𝐓∆™',
-  STICKER_PACK : '[ ©√𝗠𝗮𝗻𝘂𝗲𝗹 𝗠𝗼𝘀𝗲𝘀∆™ ]',
+  CAPTION : '__❝©√𝐃𝐮𝐧𝐤𝐥𝐞 𝐁𝐨𝐭∆™❞__',
+  STICKER_PACK : '[ __❝©√𝐃𝐮𝐧𝐤𝐥𝐞 𝐑𝐢𝐭𝐭𝐞𝐫∆™❞__ ]',
   BAD_WORDS : 'fuck,pussy',
   ANTI_BAD : false,
   ANTI_LINKS : 'chat.whatsapp.com',
